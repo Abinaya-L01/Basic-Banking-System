@@ -1,0 +1,78 @@
+
+body  
+{  
+    margin: 0;  
+    padding: 12px;  
+    font-family: 'Arial';  
+   background-image: url("gold_white2.jpg");
+    color:black;
+    //background-repeat: no-repeat;
+  background-color: white;
+    background-size: cover;
+
+} 
+header
+{
+padding:0px;
+font-size:13px;
+} 
+h1
+{
+ text-decoration:underline;
+}
+table {
+  border-spacing: 0;
+  color: #4a4a4d;
+  font: 14px/1.4 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow: 0px 2px 15px 10px ; 
+  width:60%;
+}
+th
+{
+font-size:20px;
+}
+th,
+td {
+  padding: 10px 15px;
+  text-align: center;
+  border: 1px solid black; 
+  border-radius: 3px ; 
+  color:black;
+
+}
+
+tbody tr:nth-child(even) {
+  background: #D3D3D3;
+}
+#logo
+{
+position:fixed;
+top:20px;
+left:20px;
+
+}
+.home
+{
+padding-right:50px;
+padding-top:10px;
+background-color:#D3D3D3 ;
+height:50px;
+}
+#btn1
+{
+background-color: grey; 
+  border-top:#9b27ca;
+  color: white; 
+  padding:10px; 
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-right:20px;
+   padding-left:20px;
+  cursor: pointer; 
+     border-radius: 9px ;  
+    font-family:Times New Roman;
+      font-size: 15px; 
+}

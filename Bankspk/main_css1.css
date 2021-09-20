@@ -1,0 +1,204 @@
+.about
+{ 
+    align:center; 
+    width: 520px;  
+    height:150px;
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    font-size: 15px;
+    //padding: 10px;  
+    padding-top: 0px;  
+    padding-bottom: 60px;  
+    box-shadow: 0px 2px 15px 10px goldenrod; 
+    border-radius: 15px ;  
+   background-image:no-repeat;
+
+}
+#logo
+{
+position:fixed;
+top:11px;
+left:20px;
+
+}
+.first{
+ 
+  //padding:10px 350px;
+  float:left;
+  padding:20px;
+  height:300px;
+}
+.login{  
+    
+    width: 805px;  
+    overflow: hidden;  
+    margin: auto;  
+    margin: 20 0 0 450px;  
+    font-size:19px;
+    padding: 53px; 
+    padding-right:400px; 
+   // box-shadow: 0px 2px 15px 10px white;   
+   // background-image:no-repeat;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:75px;
+   height: 688px;
+    background-size: cover;
+            background-image: url("gold_white2.jpg");      
+}  
+#log:hover{
+    background-color: #9927cf;
+} 
+#log{
+    font-size:20px;
+}
+.second{
+ 
+  //padding:0 650px;
+  float:left;
+  padding:20px;
+  height:300px;
+}
+#about
+{
+
+padding-left:30px;
+}
+.img
+{
+float:left;
+padding-top:10px;
+padding-right:50px;
+}
+.head{
+
+padding-top:10px;
+padding-bottom:10px;
+padding-right:30px;
+background-color:goldenrod;
+height:30px;
+}
+#btn1
+{
+ background-color: grey; 
+  border-top:#9b27ca;
+  color: white; 
+  padding:10px; 
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-right:20px;
+   padding-left:20px;
+  cursor: pointer; 
+     border-radius: 9px ;  
+    font-family:Times New Roman;
+      font-size: 15px; 
+}
+.footer
+{
+ 
+    background-color:black;
+    padding-top:1px;
+
+    color:goldenrod;
+    height:200px;
+}
+
+.one
+{
+display:inline-block;
+padding-right:190px;
+padding-top:10px;
+padding-bottom:10px;
+}
+
+.one a
+{
+text-decoration:none;
+color:white;
+}
+.two
+{
+
+padding-left:180px;
+
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  color: white;
+  float:left;
+  padding-left:635px;
+}
+
+.fa-twitter {
+  color: white;
+  float:left;
+}
+
+.fa-google {
+  color: white;
+  float:left;
+}
+
+.fa-instagram {
+  color: white;
+  float:left;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-size: contain;
+    padding: 5px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)),url("bkhome.webp");
+   background-size: cover;
+   object-fit: cover; 
+  
+}
+div.hos
+{
+     position:relative;
+       float:left;
+      padding-left:330px;
+
+}
+div.tra
+{
+     position:relative;
+       float:left;
+      padding-left:50px;
+
+}
+.btn {
+  background-color: white; 
+  border-top:#9b27ca;
+  color: black; 
+  padding: 12px 21px; 
+  cursor: pointer; 
+     border-radius: 15px ;  
+    font-family:Times New Roman;
+      font-size: 15px; 
+}
+
+.para p{
+    text-align: center;
+    color: white;
+    padding-left: 30px;
+    font-size: 50px;
+    
+}
+.btn:hover {
+  background-color:goldenrod;
+}
+
+div.can
+{
+     position:relative;
+      float:left;
+      padding-left:50px;
+
+
+}
